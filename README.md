@@ -2,7 +2,7 @@
 > A functional to-do list made in React
 
 
-For this project, my task was to create from a template one to-do app work. I have used the concepts learning in Ignite course from Rocketseat
+For this project, my task was to create from a template one to-do app work. I have used the concepts learned in Ignite course from Rocketseat
 
 ![](screen-shot.png)
 
@@ -18,16 +18,16 @@ For this project, my task was to create from a template one to-do app work. I ha
 ``` git clone https://github.com/PedroArch/todo-exercise.git ```
 
 2. Still in terminal
-```sh npm install```
+```npm install```
 
 or if you prefer yarn commands
-```sh yarn ```
+```yarn ```
 
 
 ## Running the program
 
 1. Just run in your terminal 
-```sh yarn dev ```
+```syarn dev ```
 
 
 ## Usage example
