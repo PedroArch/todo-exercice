@@ -1,3 +1,5 @@
+![](screen-shot.png)
+
 # React Concepts Exercise To-do List
 > A functional to-do list made in React
 
